@@ -1,2 +1,2 @@
 web: python server.py
-web: python csv_reader_Atlas.py $PORT
+worker: python csv_reader_Atlas.py $PORT
