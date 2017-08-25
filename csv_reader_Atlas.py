@@ -3,7 +3,7 @@ import urllib2
 from datetime import date, timedelta
 from pymongo import MongoClient
 
-with open('/Users/chris/workspace/geovis_assignments/project/webpages.txt') as webpages:  # List of Andrews stations/webpages
+with open('webpages.txt') as webpages:  # List of Andrews stations/webpages
     urls = [x.strip('\n') for x in webpages.readlines()]  # strips the \n
 
 for i in urls:
