@@ -1,0 +1,11 @@
+CENMET_234 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/CENMET/data/cenmet_234_a_5min_2017.csv
+PRIMET_226 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/PRIMET/data/primet_226_a_5min_2017.csv
+PRIMET_229A http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/PRIMET/data/primet_229_a_5min_2017.csv
+PRIMET_229B http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/PRIMET/data/primet_229_b_5min_2017.csv
+PRIMET_230 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/PRIMET/data/primet_230_a_5min_2017.csv
+UPLMET_235 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/UPLMET/data/uplmet_235_5min_2017.csv
+UPLMET_236 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/UPLMET/data/uplmet_236_5min_2017.csv
+VANMET_231 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/VANMET/data/vanmet_231_a_5min_2017.csv
+VANMET_232A http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/VANMET/data/vanmet_232_a_5min_2017.csv
+VANMET_232B http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/VANMET/data/vanmet_232_b_5min_2017.csv
+VARMET_302 http://andrewsforest.oregonstate.edu/sites/default/files/lter/data/weather/portal/VARMET/data/varmet_302_a_5min_2017.csv
