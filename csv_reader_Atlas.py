@@ -18,7 +18,7 @@ for i in urls:
     yesterday = day.strftime('%Y-%m-%d')  # formats the date
     try:
         mongo_client = MongoClient('mapious.ceoas.oregonstate.edu', 27017)  # opens the mongo db client
-        print "Connected Succesfully to MongoDB"
+        print "Connected Succesfully to MongoDB Atlas"
     except pymongo.errors.ConnectionFailure, e:
         print "Could not connect to MongoDB Atlas: %s" % e
 
